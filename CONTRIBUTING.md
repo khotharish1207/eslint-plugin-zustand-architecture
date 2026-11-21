@@ -6,8 +6,8 @@ Thank you for contributing to `eslint-plugin-zustand-architecture`!
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd plugin\ 123
+git clone https://github.com/khotharish1207/eslint-plugin-zustand-architecture.git
+cd eslint-plugin-zustand-architecture
 
 # Install dependencies
 npm install
